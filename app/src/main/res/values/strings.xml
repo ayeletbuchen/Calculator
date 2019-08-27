@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="str_divide">÷</string>
+    <string name="str_multiply">x</string>
+    <string name="str_add">+</string>
+    <string name="str_subtract">-</string>
+    <string name="str_equals">=</string>
+    <string name="increase_font">Increase text size</string>
+    <string name="decrease_font">Decrease text size</string>
+    <string name="output_color">Output color</string>
+    <string name="black_text">Black text</string>
+    <string name="blue_text">Blue text</string>
+    <string name="key_blue_text">BlueKey</string>
+    <string name="key_black_text">BlackKey</string>
+    <string name="about">About</string>
+    <string name="info">This is a calculator made by Ayelet Buchen for MCON451 in Fall 2018</string>
+
+</resources>
