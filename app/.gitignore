@@ -5,3 +5,4 @@ app.iml
 build.gradle
 proguard-rules.pro
 libs/
+src/main/AndroidManifest.xml
